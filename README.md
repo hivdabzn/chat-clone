@@ -35,3 +35,5 @@ setIsAtBottom(scrollTop + clientHeight >= scrollHeight - 100);
 - clientHeight: kullanıcnın ekranda görebildiği kısmın yüksekliği
 - scrollHeight: tüm içeriğin yüksekliği (gizli kısımlar dahil)
 
+- ![Image](https://github.com/user-attachments/assets/95ab0869-277d-4b97-8a80-3a250bd26604)
+
